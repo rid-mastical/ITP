@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/mind-matrix-api/:path*",
+      "destination": "https://api.mind-matrix.in/:path*"
+    }
+  ]
+}
